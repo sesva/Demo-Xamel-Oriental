@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DemoXaml"
+             x:Class="DemoXaml.MainPage">
+
+    <!--
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Text="Autosized cell"
+               Grid.Row="0" Grid.Column="0"
+               TextColor="White"
+               BackgroundColor="Blue"/>
+
+        <BoxView Color="Silver"
+                 HeightRequest="0"
+                 Grid.Row="0" 
+                 Grid.Column="1"/>
+
+        <BoxView Color="Teal"
+                 Grid.Row="0"
+                 Grid.Column="2"/>
+
+        <Label Text="Leftover space"
+               Grid.Row="1" Grid.Column="0"
+               TextColor="Purple"
+               BackgroundColor="Aqua"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               />
+
+        <Label Text="Span two rows (or more if you want)"
+               Grid.Row="1" Grid.Column="2" Grid.RowSpan="2"
+               TextColor="Yellow"
+               BackgroundColor="Blue"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+
+        <Label Text="Span two columns"
+               Grid.Row="2" Grid.Column="0" Grid.RowSpan="2"
+               TextColor="Blue"
+               BackgroundColor="Yellow"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+
+        <Label Text="Fixed 100x100"
+               Grid.Row="2" Grid.Column="2"
+               TextColor="Aqua"
+               BackgroundColor="Red"
+               HorizontalOptions="Center"
+               VerticalTextAlignment="Center"/>
+    </Grid>
+
+
+    <StackLayout BindingContext="{x:Reference slider1}" VerticalOptions="Center">
+        <Label x:Name="label"
+               Text="{Binding Path=Value, StringFormat='Value is {0:F2}'}"
+               FontSize="{Binding Path=Value}"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"/>
+        <Label x:Name="label2"
+               Text="This is label 2"
+               Opacity="{Binding Path=Value}"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"/>
+        <Slider x:Name="slider1" Maximum="50"></Slider>
+        
+    </StackLayout>
+
+    <ContentPage.Content>
+        <Label Text="Hola Mundo Cruel" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Center"/>
+        <Label Text="Hola Mundo Cruel" TextColor="Red" HorizontalOptions="Center" VerticalOptions="Center"/>
+
+    </ContentPage.Content>
+
+ 
+    <StackLayout VerticalOptions="Center">
+        <Label x:Name="label"
+               BindingContext="{x:Reference slider1}"
+               Text="{Binding Path=Value, StringFormat='Value is {0:F2}'}"
+               FontSize="{Binding Path=Value}"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"/>
+        <Slider x:Name="slider1" Maximum="10"></Slider>
+    </StackLayout>
+    
+
+    FontSize="{Binding Source={x:Reference slider1}, Path=Value}"-->
+
+    <!--
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                iOS="0, 20, 0, 0"
+                Android="0"/>
+    </ContentPage.Padding>
+    -->
+        
+    <!--
+    <ContentPage.Content>
+        <Button Text="Karen">
+            <Button.TextColor>Green</Button.TextColor>
+        </Button>
+    </ContentPage.Content>
+    
+    -->
+    <!--
+	<Label Text="Welcome to Xamarin Forms!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+    
+    -->
+
+    <!--
+    <ContentPage.Padding>
+        <Thickness Top="100"></Thickness>
+    </ContentPage.Padding>
+    
+    <Button 
+        TextColor="Red" 
+        Text="¡Hola Mundo!"
+        VerticalOptions="Start"/>
+    -->
+    <!--
+    <Button Text="Hacer Click" TextColor="Red" >
+        <Button.TextColor>Green</Button.TextColor>
+    </Button>
+    -->
+
+</ContentPage>

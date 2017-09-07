@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#127ac7"
+             x:Class="DemoXaml.GridLayoutExTwo">
+
+    <Grid RowSpacing="10" Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackLayout VerticalOptions="Center">
+            <Label Text="Welcome to Colombia"
+                   FontSize="25"
+                   TextColor="White"
+                   HorizontalOptions="Center"/>
+
+            <Label Text="Karen Solanye"
+                   FontSize="18"
+                   TextColor="White"
+                   HorizontalOptions="End"/>
+        </StackLayout>
+        <Button Text="On"
+                TextColor="White"
+                Grid.Row="1"
+                BackgroundColor="#1dabf0"/>
+        <Button Text="Off"
+                TextColor="White"
+                Grid.Row="2"
+                BackgroundColor="#1dabf0"/>
+    </Grid>
+    
+</ContentPage>

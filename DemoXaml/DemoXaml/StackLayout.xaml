@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoXaml.StackLayout"
+             BackgroundColor="#127ac7">
+    
+    <ScrollView>
+        <StackLayout Spacing="10" Padding="30">
+            <Label Text="Felino"
+               TextColor="White"
+               FontSize="20"
+               HorizontalOptions="Center"/>
+            <Image Source="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Collage_of_Six_Cats-02.jpg/1024px-Collage_of_Six_Cats-02.jpg"
+               Aspect="AspectFill"
+               HeightRequest="300"/>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Editar" BackgroundColor="#127ac7"/>
+                <Button Text="Borrar" BackgroundColor="#127ac7"/>
+                <Button Text="Crear" BackgroundColor="#127ac7"/>
+            </StackLayout>
+            <BoxView HeightRequest="1" BackgroundColor="Gray"/>
+            <StackLayout Padding="10">
+                <Label Text="Felis silvestris catus" FontAttributes="Bold"/>
+                <Label Text="El gato o gato doméstico1​2​ (Felis silvestris catus) y coloquialmente llamado minino,3​ michino,4​ micho,5​ mizo,6​ miz,7​ morrongo8​ o morroño;9​ es una subespecie de mamífero carnívoro de la familia Felidae. El gato está en convivencia cercana al ser humano desde hace unos 9500 años,10​ periodo superior al estimado anteriormente, que oscilaba entre 3500 y 8000 años."/>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+
+    <!--
+    <ContentPage.Content>
+        <StackLayout 
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+            Spacing="20">
+
+            <Label Text="Welcome to Xamarin Forms!" 
+                   FontSize="26"
+                   TextColor="White"/>
+            <Label Text="Karen Solanye" 
+                   FontSize="18"
+                   TextColor="White"
+                   HorizontalOptions="Center"/>
+            <Button Text="Aceptar" 
+                    TextColor="White" 
+                    BackgroundColor="#1dabf0" />
+            <Button Text="Cancelar" 
+                    TextColor="White" 
+                    BackgroundColor="#1dabf0"/>
+        </StackLayout>
+    </ContentPage.Content>
+-->
+</ContentPage>
