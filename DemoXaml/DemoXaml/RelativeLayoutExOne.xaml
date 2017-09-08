@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoXaml.RelativeLayoutExOne">
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                    iOS="0,20,0,0"/>
+    </ContentPage.Padding>
+    <RelativeLayout>
+        <Image x:Name="imgMail"
+               Source="https://images.vexels.com/media/users/3/135148/isolated/preview/da10190af5af2fd3278b4e9f5e8e5935-la-muestra-del-mensaje-plana-con-fondo-redondo-by-vexels.png"
+               WidthRequest="100"
+               HeightRequest="100"
+               RelativeLayout.XConstraint="{
+                    ConstraintExpression
+                        Type=RelativeToParent,
+                        Property=Width,
+                        Factor=0.5,
+                        Constant=-50
+                }"
+               RelativeLayout.YConstraint="{
+                    ConstraintExpression
+                        Type=RelativeToParent,
+                        Property=Height,
+                        Factor=0.5,
+                        Constant=-50
+                }"/>
+
+        <Image Source="https://icon-icons.com/icons2/403/PNG/512/text-message_40482.png"
+               HeightRequest="40"
+               WidthRequest="40"
+               RelativeLayout.XConstraint="{
+                    ConstraintExpression
+                        Type=RelativeToView,
+                        ElementName=imgMail,
+                        Property=X,
+                        Factor=1,
+                        Constant=80
+                }"
+               RelativeLayout.YConstraint="{
+                    ConstraintExpression
+                        Type=RelativeToView,
+                        ElementName=imgMail,
+                        Property=Y,
+                        Factor=1,
+                        Constant=0
+                }"
+               />
+    </RelativeLayout>
+</ContentPage>

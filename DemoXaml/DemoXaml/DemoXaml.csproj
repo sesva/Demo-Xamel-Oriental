@@ -60,6 +60,15 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RelativeLayoutDemo.xaml.cs">
+      <DependentUpon>RelativeLayoutDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RelativeLayoutExOne.xaml.cs">
+      <DependentUpon>RelativeLayoutExOne.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RelativeLayoutExTwo.xaml.cs">
+      <DependentUpon>RelativeLayoutExTwo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="StackLayout.xaml.cs">
       <DependentUpon>StackLayout.xaml</DependentUpon>
     </Compile>
@@ -126,6 +135,24 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="AbsoluteLayoutExTwo.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="RelativeLayoutDemo.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="RelativeLayoutExOne.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="RelativeLayoutExTwo.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
