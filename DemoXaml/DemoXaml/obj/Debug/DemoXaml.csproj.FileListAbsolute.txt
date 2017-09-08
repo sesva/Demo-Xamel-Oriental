@@ -17,3 +17,6 @@ C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\D
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.GridLayoutExTwo.xaml.g.cs
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.AbsoluteLayoutDemo.xaml.g.cs
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.AbsoluteLayoutExOne.xaml.g.cs

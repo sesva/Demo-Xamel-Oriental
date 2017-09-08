@@ -13,7 +13,7 @@ namespace DemoXaml
         {
             InitializeComponent();
 
-            MainPage = new DemoXaml.GridLayoutEj1();
+            MainPage = new DemoXaml.AbsoluteLayoutExOne();
         }
 
         protected override void OnStart()

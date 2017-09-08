@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoXaml.AbsoluteLayoutExTwo">
+    
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                    iOS="0,20,0,0"/>
+    </ContentPage.Padding>
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Image Source="http://lagrande.emisorasunidas.com/sites/default/files/images/cr7_3.jpg"
+                   Aspect="AspectFill"
+                   AbsoluteLayout.LayoutBounds="0,0,1,1"
+                   AbsoluteLayout.LayoutFlags="All"/>
+            
+            <Label BackgroundColor="Black"
+                   Text="Información"
+                   TextColor="Red"
+                   Opacity="0.8"
+                   VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center"
+                   AbsoluteLayout.LayoutBounds="0,1,0.5,60"
+                   AbsoluteLayout.LayoutFlags="PositionProportional,WidthProportional"/>
+            
+            <Label BackgroundColor="Black"
+                   Text="Ver mas"
+                   TextColor="Green"
+                   Opacity="0.8"
+                   VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center"
+                   AbsoluteLayout.LayoutBounds="1,1,0.5,60"
+                   AbsoluteLayout.LayoutFlags="PositionProportional,WidthProportional"/>
+
+            <Label BackgroundColor="#127ac7"
+                   Text="Cristiano Ronaldo"
+                   FontSize="20"
+                   TextColor="White"
+                   Opacity="0.6"
+                   VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center"
+                   AbsoluteLayout.LayoutBounds="1,0,1,40"
+                   AbsoluteLayout.LayoutFlags="PositionProportional,WidthProportional"/>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>
