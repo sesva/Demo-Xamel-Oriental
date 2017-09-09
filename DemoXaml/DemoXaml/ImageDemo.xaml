@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DemoXaml"
+             xmlns:controls="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             x:Class="DemoXaml.ImageDemo">
+
+    <controls:CircleImage
+                WidthRequest="300"
+                HeightRequest="300"
+                Aspect="AspectFit"
+                Source="http://eznewlife.com/uploads/1458175042-t7ycI.jpg"        
+        />
+
+
+
+    <!--
+    <Image x:Name="image"
+           Source="sesva.9.png"
+            
+           />
+    -->
+
+
+    
+</ContentPage>
