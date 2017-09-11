@@ -1,4 +1,3 @@
-C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.csprojResolveAssemblyReference.cache
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.csproj.CoreCompileInputs.cache
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.MainPage.xaml.g.cs
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.App.xaml.g.cs
@@ -24,3 +23,18 @@ C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\D
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.RelativeLayoutDemo.xaml.g.cs
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.RelativeLayoutExOne.xaml.g.cs
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.RelativeLayoutExTwo.xaml.g.cs
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.ImageDemo.xaml.g.cs
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.EntryDemo.xaml.g.cs
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\DemoXaml.dll.config
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\ExifLib.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Core.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Forms.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Ioc.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Platform.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Serialization.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Core.xml
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Forms.xml
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Ioc.xml
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Platform.xml
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Serialization.xml
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.csprojResolveAssemblyReference.cache

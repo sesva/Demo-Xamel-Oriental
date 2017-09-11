@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DemoXaml"
+             xmlns:controls="clr-namespace:DemoXaml.Controls"
+             Padding="20"
+             x:Class="DemoXaml.EntryDemo">
+
+    <StackLayout>
+        <controls:NoBorderEntry Placeholder="Username" 
+                                Keyboard="Chat"/>
+        <controls:NoBorderEntry Placeholder="Phone"
+                                Keyboard="Telephone"/>
+        <controls:NoBorderEntry Placeholder="Email"
+                                Keyboard="Email"/>
+        <controls:NoBorderEntry Placeholder="Password"
+                                IsPassword="True"/>
+        
+    </StackLayout>
+    
+    <!--
+    <StackLayout>
+        <Entry Placeholder="Username" Keyboard="Chat"/>
+        <Entry Placeholder="Phone" Keyboard="Telephone"/>
+        <Entry Placeholder="Email" Keyboard="Email"/>
+        <Entry Placeholder="Password" IsPassword="True"/>
+        <Label Text="Agregar comentario"/>
+        <Editor Keyboard="Chat"/>
+    </StackLayout>
+    -->
+
+    <!--
+    <StackLayout>
+        <Label Text="Sesva"/>
+        <Editor x:Name="editor" 
+                BackgroundColor="Yellow"
+                VerticalOptions="FillAndExpand"
+                TextColor="Black"/>
+-->
+
+    <!--
+        <Entry Placeholder="Username" 
+               Keyboard="Chat"
+               TextChanged="Handle_TextChanged"/>
+        <Entry Placeholder="Phone" 
+               Keyboard="Telephone"/>
+        <Entry Placeholder="Email" 
+               Keyboard="Email"
+               Completed="Handle_Completed"/>
+        <Entry Placeholder="Password" 
+               IsPassword="True"/>
+        -->
+
+</ContentPage>

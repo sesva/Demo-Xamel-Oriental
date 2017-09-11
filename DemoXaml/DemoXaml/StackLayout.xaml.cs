@@ -16,5 +16,7 @@ namespace DemoXaml
 		{
 			InitializeComponent ();
 		}
-	}
+
+        public object Children { get; internal set; }
+    }
 }

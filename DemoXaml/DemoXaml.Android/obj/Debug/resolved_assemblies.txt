@@ -1,5 +1,6 @@
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\DemoXaml.Android.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\DemoXaml.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\ExifLib.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\FormsViewGroup.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
@@ -13,8 +14,16 @@ C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\D
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\XLabs.Core.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\XLabs.Forms.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\XLabs.Forms.Droid.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\XLabs.Ioc.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\XLabs.Platform.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\XLabs.Platform.Droid.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\XLabs.Serialization.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Java.Interop.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Mono.Android.Export.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\mscorlib.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Core.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.dll
@@ -24,11 +33,11 @@ C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\D
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.ComponentModel.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Reflection.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Collections.dll
-C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.ObjectModel.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Globalization.dll
@@ -43,6 +52,9 @@ C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\D
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Text.RegularExpressions.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Text.Encoding.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Runtime.Serialization.Xml.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Mono.Security.dll

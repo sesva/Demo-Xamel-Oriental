@@ -100,6 +100,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "DemoXaml.Android.dll" comes first in this list. */
 		"DemoXaml.Android.dll",
 		"DemoXaml.dll",
+		"ExifLib.dll",
 		"FormsViewGroup.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Design.dll",
@@ -113,6 +114,13 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
+		"XLabs.Core.dll",
+		"XLabs.Forms.dll",
+		"XLabs.Forms.Droid.dll",
+		"XLabs.Ioc.dll",
+		"XLabs.Platform.dll",
+		"XLabs.Platform.Droid.dll",
+		"XLabs.Serialization.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

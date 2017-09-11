@@ -16,7 +16,7 @@ namespace DemoXaml
 		{
 			InitializeComponent ();
 
-            //image.Source = ImageSource.FromResource("sesva.jpg");
+            //sssimage.Source = ImageSource.FromResource("sesva.jpg");
 		}
 	}
 }
