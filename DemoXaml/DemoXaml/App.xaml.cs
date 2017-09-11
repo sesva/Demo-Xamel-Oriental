@@ -13,7 +13,7 @@ namespace DemoXaml
         {
             InitializeComponent();
 
-            MainPage = new DemoXaml.EntryDemo();
+            MainPage = new DemoXaml.TabbedPageDemo.MainPage();
         }
 
         protected override void OnStart()

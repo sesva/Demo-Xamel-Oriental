@@ -38,3 +38,7 @@ C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\D
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Platform.xml
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\bin\Debug\XLabs.Serialization.xml
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.csprojResolveAssemblyReference.cache
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.TabbedPageDemo.MainPage.xaml.g.cs
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.TabbedPageDemo.DemoPage1.xaml.g.cs
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.TabbedPageDemo.DemoPage2.xaml.g.cs
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml\obj\Debug\DemoXaml.TabbedPageDemo.DemoPage3.xaml.g.cs

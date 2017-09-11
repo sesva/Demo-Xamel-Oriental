@@ -79,6 +79,18 @@
     <Compile Include="StackLayout.xaml.cs">
       <DependentUpon>StackLayout.xaml</DependentUpon>
     </Compile>
+    <Compile Include="TabbedPageDemo\DemoPage1.xaml.cs">
+      <DependentUpon>DemoPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TabbedPageDemo\DemoPage2.xaml.cs">
+      <DependentUpon>DemoPage2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TabbedPageDemo\DemoPage3.xaml.cs">
+      <DependentUpon>DemoPage3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TabbedPageDemo\MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MainPage.xaml">
@@ -194,6 +206,30 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="EntryDemo.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="TabbedPageDemo\MainPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="TabbedPageDemo\DemoPage1.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="TabbedPageDemo\DemoPage2.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="TabbedPageDemo\DemoPage3.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

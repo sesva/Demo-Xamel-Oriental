@@ -70,3 +70,6 @@ C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\D
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\res\drawable\iamgen1.png
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\res\drawable\amor.jpg
+C:\Users\sesva\Documents\Project Visual Studio\Xamarin Forms Oriental\DemoXaml\DemoXaml\DemoXaml.Android\obj\Debug\res\drawable\monkeyicon.png
